@@ -64,8 +64,8 @@
 **Terminal-native AI Coding Assistant**
 
 - Contributed to an Apache-2.0 open-source CLI coding agent.
-- Implemented `max-turns` iteration budget across interactive, print and run modes.
-- Added shared budget handling for nested agent loops.
+- Implemented `max-turns` across interactive, print and run modes.
+- Added shared iteration budgets for nested agent loops.
 - Improved CLI configuration, retries and session persistence.
 
 **Tech:** TypeScript · Node.js
@@ -78,9 +78,9 @@
 ### ⚡ Home Energy Tracker
 **Event-driven Backend System**
 
-- Built backend microservices for user, device and ingestion services.
-- Implemented real-time energy message streaming with Apache Kafka.
-- Created a multithreaded ExecutorService meter simulator.
+- Built microservices for user, device and ingestion services.
+- Implemented real-time energy message streaming using Kafka.
+- Created a multithreaded meter-reading simulator.
 - Applied Spring AOP and Docker Compose.
 
 **Tech:** Java · Spring Boot · Kafka · MySQL · Docker
@@ -89,32 +89,34 @@
 
 </td>
 </tr>
+
 <tr>
+<td width="50%" valign="top">
+
+### 🔋 Distributed Microgrid Management System
+**IIT Roorkee · iHUB IIT Kanpur Funded**
+
+- Designed Spring Boot services for central-server and edge-server coordination.
+- Implemented bidirectional gRPC communication.
+- Built real-time telemetry ingestion using MQTT and Mosquitto.
+- Identified communication vulnerabilities through simulated attack scenarios and implemented software-level security mitigations.
+
+**Tech:** Java · Spring Boot · gRPC · MQTT
+
+</td>
 <td width="50%" valign="top">
 
 ### 🔐 Hermes
 **Secure Backend Platform**
 
 - Implemented OTP-based email verification.
-- Built stateless JWT-based authentication and authorization.
+- Built stateless JWT authentication and authorization.
 - Developed custom authorization filters.
 - Engineered consistent exception handling for MongoDB-backed REST services.
 
 **Tech:** C# · .NET · MongoDB · JWT
 
 [View Repository](YOUR_HERMES_REPO)
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 What I'm Exploring
-
-- Distributed systems and event-driven architecture.
-- AI agents and LLM-powered developer tools.
-- Backend performance and concurrency.
-- Open-source software engineering.
-
-**Always building something new.**
 
 </td>
 </tr>
