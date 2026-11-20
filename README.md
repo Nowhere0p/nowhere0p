@@ -19,35 +19,14 @@
 ### 🌸 About Me
 
 - 🎓 Final-year Computer Science undergraduate at **NIT Uttarakhand**.
-- 💻 Backend Developer with professional internship experience.
-- ⚙️ Interested in distributed systems, microservices and scalable backend architecture.
+- 💻 Backend Developer passionate about building scalable systems.
+- ⚙️ Interested in distributed systems, microservices and software architecture.
 - 🚀 Open-source contributor to **Agav**, an AI coding assistant.
 - 🤖 Exploring LLM integration, AI agents and developer tools.
 - 🧩 Enjoy solving problems and learning how things work under the hood.
-- 🎮 Anime, gaming and football enthusiast.
+- 🎮 Gaming and football enthusiast.
 
 <br clear="right"/>
-
----
-
-### 💼 Experience
-
-**Backend Developer Intern — Shipotle Technologies**
-
-`Aug 2024 – Jun 2026`
-
-- Developed RESTful APIs using C# and ASP.NET with secure server-side validation.
-- Automated recurring tasks and external API synchronization using background services.
-- Integrated LLMs into backend services for AI-assisted features and workflow automation.
-- Implemented unit and end-to-end testing using MSTest and PyTest.
-
-**Project Intern — IIT Roorkee (iHUB IIT Kanpur funded)**
-
-`Dec 2025 – Jan 2026`
-
-- Designed Spring Boot backend services for distributed central-server and edge-server coordination.
-- Implemented bidirectional communication using gRPC and real-time telemetry ingestion using MQTT.
-- Identified communication vulnerabilities through simulated attack scenarios and implemented software-level security mitigations.
 
 ---
 
@@ -170,8 +149,6 @@
 ---
 
 <div align="center">
-
-### 🌈 Beyond the Code
 
 *“The journey of a thousand lines of code begins with a single commit.”*
 
