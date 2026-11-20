@@ -1,6 +1,11 @@
  <div align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E0C3FC,50:8EC5FC,100:FAD0C4&height=200&section=header&text=Rajat%20Chaudhary&fontSize=48&fontColor=45405A&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Distributed%20Systems&descAlignY=60&descSize=15" width="100%" />
+<img src="https://github.com/mbridak/potato/raw/main/potato.webp"
+     width="180"
+     alt="Potato mascot" />
+
+</div>
 
 ### Hey there! I'm Rajat 👋
 
