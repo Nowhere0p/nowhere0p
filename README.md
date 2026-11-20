@@ -1,7 +1,7 @@
  <div align="center">
 <div align="center">
 
-<img src="https://github.com/mbridak/potato/raw/main/potato.webp"
+<img src="[https://github.com/mbridak/potato/raw/main/potato.webp](https://github.com/Nowhere0p/nowhere0p/blob/main/potato.webp)"
      width="180"
      alt="Potato mascot" />
 
